@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Python Practice- basics</b>
+  - [Simple Car Game](https://github.com/Ljunijankic95/Ljubijankic95/blob/main/car_game(basics).py)
+  - [Emoji Converter](https://github.com/Ljunijankic95/Ljubijankic95/blob/main/emoji_converter.py)
+  - [Weight Converter](https://github.com/Ljunijankic95/Ljubijankic95/blob/main/weight_converter.py)
 - <b>SQL</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Salesforce</b>
