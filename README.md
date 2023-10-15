@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python Practice- basics</b>
+- <b>Python Practice <br> -basics</b>
   - [Weight Converter](https://github.com/Ljunijankic95/Ljubijankic95/blob/main/excel_price_processor.py)
   - [Simple Car Game](https://github.com/Ljunijankic95/Ljubijankic95/blob/main/car_game(basics).py)
   - [Emoji Converter](https://github.com/Ljunijankic95/Ljubijankic95/blob/main/emoji_converter.py)
   - [Weight Converter](https://github.com/Ljunijankic95/Ljubijankic95/blob/main/weight_converter.py)
+   <b> -basics</b>- 
 - <b>SQL</b>
   - [Image Analysis Middleware]<b><i>(Potentially NSFW)</b></i>
 - <b>Salesforce</b>
