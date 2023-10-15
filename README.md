@@ -8,10 +8,10 @@
   - [Emoji Converter](https://github.com/Ljunijankic95/Ljubijankic95/blob/main/emoji_converter.py)
   - [Weight Converter](https://github.com/Ljunijankic95/Ljubijankic95/blob/main/weight_converter.py)
 - <b>SQL</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware]<b><i>(Potentially NSFW)</b></i>
 - <b>Salesforce</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
+  - [JWipe (Disk Wiping Utility)]
  
 <h2> 🤳 Connect with me:</h2>
 
